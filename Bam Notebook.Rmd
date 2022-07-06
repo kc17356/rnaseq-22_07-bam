@@ -29,3 +29,10 @@ Step 2: Obtain Data:
 
 Background Information:
   This data has already been quality checked and normalised by me. I have then separated a chunk of the data for you to    analyse so you are not overwhelmed with the entire dataset all at once. 
+  
+
+Step 3: Do the next bit 
+
+```{r}
+plot(DEGs)
+```
