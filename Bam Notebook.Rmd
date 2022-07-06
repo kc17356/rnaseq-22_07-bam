@@ -1,0 +1,31 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+This notebook provides a walkthrough for the different analysis steps to allow Bam to understand and execute the different steps of the code to conduct analysis. 
+
+Step 1: Install Packages:
+  'Packages' are groups of functions that overall all the user to do a specific work. If you want to use a function         associated with a specific package, you have to make sure that package is installed. 
+  
+```{r}
+
+```
+
+Step 2: Obtain Data:
+  I have already done a lot of the initial work with this data, which I will explain below. In order to access the data    to analyse it, you must load the data into r. 
+
+```{r}
+
+```
+
+Background Information:
+  This data has already been quality checked and normalised by me. I have then separated a chunk of the data for you to    analyse so you are not overwhelmed with the entire dataset all at once. 
